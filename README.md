@@ -1,0 +1,2 @@
+# CodeAlfa_HandWrittenRecognition
+Machine Learning project to HandWrittenRecognition model
